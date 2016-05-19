@@ -18,8 +18,8 @@ include ZAQ_TEST======================ccmac.
 *"* local class implementation
 include ZAQ_TEST======================ccimp.
 
-class ZAQ_TEST implementation.
-*"* method's implementations
+class ZAQ_TEST implemghjghjentation.
+*"* method's implemenhjhgtations
   include methods.
-endclass. "ZAQ_TEST implementation
+endclass. "ZAQ_TEST implghkhgementation
 
